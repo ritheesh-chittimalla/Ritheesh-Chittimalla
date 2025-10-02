@@ -25,13 +25,6 @@ Driven by a growth mindset, I constantly seek new challenges that push my bounda
 
 ---
 
-## 🌐 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/ritheesh-chittimalla-781b9331a/)
-- [Medium](https://medium.com/@karthikreddy0)
-- [LeetCode](https://leetcode.com/u/ritheeshchittimalla/)
-
----
 
 ## 🏆 Most Used Languages
 
@@ -77,5 +70,14 @@ Driven by a growth mindset, I constantly seek new challenges that push my bounda
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
+
+---
+## 🌐 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/ritheesh-chittimalla-781b9331a/)
+- [Medium](https://medium.com/@karthikreddy0)
+- [LeetCode](https://leetcode.com/u/ritheeshchittimalla/)
+
+---
 
 ---
