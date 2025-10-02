@@ -1,6 +1,14 @@
 # Hi 👋, I'm Ritheesh Chittimalla
 
-### An aspiring AI engineer currently pursuing my bachelors
+### An AIML student passionate about Artificial Intelligence. Currently working on Chatbot using RAG
+
+---
+
+**About Me**
+
+With a deep fascination for artificial intelligence and its real-world impact, I'm looking to build intelligent systems that solve meaningful problems. My journey in tech began with curiosity—experimenting with code, automating simple tasks, and gradually diving into more complex domains like Machine Learning and Deep Learning. I enjoy understanding how things work from the ground up, and I strive to blend solid theoretical knowledge with hands-on practical projects. Whether it's building chatbots, deploying AI services, or optimizing ML pipelines, I believe in learning by doing.
+
+Driven by a growth mindset, I constantly seek new challenges that push my boundaries. I thrive in collaborative environments and appreciate the value of open-source contributions, mentorship, and knowledge sharing. Beyond code, I love writing technical articles to distill complex concepts and inspire others in their learning journeys. I’m always excited to connect with like-minded people, exchange ideas, and contribute to impactful projects in the AI and ML community.
 
 ---
 
@@ -27,12 +35,14 @@
 
 ## 🏆 Most Used Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+| Language    | Percentage | Visual                                    |
+|-------------|------------|-------------------------------------------|
+| Python      | 40%        | ![Python](https://progress-bar.dev/40/?title=Python&width=200&color=3776AB)     |
+| JavaScript  | 20%        | ![JavaScript](https://progress-bar.dev/20/?title=JavaScript&width=200&color=F7DF1E) |
+| C           | 15%        | ![C](https://progress-bar.dev/15/?title=C&width=200&color=00599C)             |
+| Java        | 10%        | ![Java](https://progress-bar.dev/10/?title=Java&width=200&color=007396)         |
+| HTML5       | 8%         | ![HTML5](https://progress-bar.dev/8/?title=HTML5&width=200&color=E34F26)       |
+| CSS3        | 7%         | ![CSS3](https://progress-bar.dev/7/?title=CSS3&width=200&color=1572B6)         |
 
 ---
 
