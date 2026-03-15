@@ -26,18 +26,9 @@ Driven by a growth mindset, I constantly seek new challenges that push my bounda
 ---
 
 
-## 🏆 Most Used Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritheesh-chittimalla&show_icons=true&theme=default&hide_border=true)
 
-| Language    | Percentage | Visual                                    |
-|-------------|------------|-------------------------------------------|
-| Python      | 40%        | ![Python](https://progress-bar.dev/40/?title=Python&width=200&color=3776AB)     |
-| JavaScript  | 20%        | ![JavaScript](https://progress-bar.dev/20/?title=JavaScript&width=200&color=F7DF1E) |
-| C           | 15%        | ![C](https://progress-bar.dev/15/?title=C&width=200&color=00599C)             |
-| Java        | 10%        | ![Java](https://progress-bar.dev/10/?title=Java&width=200&color=007396)         |
-| HTML5       | 8%         | ![HTML5](https://progress-bar.dev/8/?title=HTML5&width=200&color=E34F26)       |
-| CSS3        | 7%         | ![CSS3](https://progress-bar.dev/7/?title=CSS3&width=200&color=1572B6)         |
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritheesh-chittimalla&layout=compact&hide_border=true)
 
 ## 🛠️ Languages and Tools
 
