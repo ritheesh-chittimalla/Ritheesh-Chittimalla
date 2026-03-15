@@ -75,7 +75,7 @@ Driven by a growth mindset, I constantly seek new challenges that push my bounda
 ## 🌐 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/ritheesh-chittimalla-781b9331a/)
-- [Medium](https://medium.com/@karthikreddy0)
+- [Medium](https://medium.com/@Ritheesh_Chittimalla)
 - [LeetCode](https://leetcode.com/u/ritheeshchittimalla/)
 
 ---
